@@ -8,9 +8,9 @@
 --- DEPENDENCIES: [malverk]
 
 AltTexture ({
-key = 'GigaJokers_joker',
+	key = 'GigaJokers_joker',
     set = 'Joker',
-path = 'GigaJokers_joker.png',
+	path = 'GigaJokers_joker.png',
     original_sheet = true,
     keys = {
         "j_joker",
@@ -98,4 +98,6 @@ TexturePack({
     },
     loc_txt = {
         name = 'GigaJokers',
-... (3 líneas restantes)
+        text = {'Jokers did mewing and turned into', 'GigaJokers cards'}
+    }
+})
