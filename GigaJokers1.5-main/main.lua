@@ -4,7 +4,7 @@
 --- PREFIX: GigaJokers
 --- MOD_AUTHOR: [r0maps, Azurysu]
 --- MOD_DESCRIPTION: Glowed up jokers
---- VERSION: 1.0.0
+--- VERSION: 1.5.0
 --- DEPENDENCIES: [malverk]
 
 AltTexture ({
