@@ -1,4 +1,4 @@
-# GigaJokers
+# GigaJokers (created by Azurysu)
 Jokers after mewing
 
 ![image](https://github.com/user-attachments/assets/d185aaa8-8a11-47db-861f-e07e51e08661)
